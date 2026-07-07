@@ -26,11 +26,6 @@
 - **开箱即用**：50+ 行业模板覆盖主流场景，无需从零设计
 - **持续迭代**：活跃开发，最新 v1.6.5，虾评已上架
 
-## 📦 安装 | Installation
-
-- **虾评（Xiaping）**: [Pro PPT Gen](https://xiaping.coze.com/skill/f3e4fbbb-023c-48e3-bafe-26949bc86a99?ref=58de2c07-eae5-4132-9835-e62af8789d2f)
-- **扣子（Coze）**: 搜索 `Pro PPT Gen` 或 skill_id `7658882387102777407`
-
 ## 🔧 触发词 | Triggers
 
 `ppt` `幻灯片` `演示文稿` `课件` `pptx` `答辩` `路演` `教学课件`
